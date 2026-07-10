@@ -15,6 +15,6 @@ I'm **Harshit Gupta**, passionate about Full Stack Development, Data Analytics a
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Gupta-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/harshit-gupta-01b8aa2b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Gupta-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/harshit-gupta-01b8aa2b4)
 
 [![GitHub](https://img.shields.io/badge/GitHub-HarshitGupta5533-black?style=for-the-badge&logo=github)](https://github.com/HarshitGupta5533)
