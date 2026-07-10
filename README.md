@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**HarshitGupta5533/HarshitGupta5533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Harshit Gupta**, passionate about Full Stack Development, Data Analytics and building practical web applications.
 
-Here are some ideas to get you started:
+- 💻 Skilled in HTML, CSS, JavaScript, React, PHP, SQL, MySQL and Python
+- 📊 Interested in Data Analytics and Backend Development
+- 🚀 Built multiple web applications focused on solving real-world business problems
+- 📚 Currently learning Advanced SQL, React and Data Analytics
+- 🤝 Open to internship opportunities and collaborative projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- 🚗 **HS Car Rental System**
+- 🍽 **Grand Meritorious Restaurant POS System**
+- 🛒 **E-Commerce Management System**
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Gupta-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/harshit-gupta-01b8aa2b4/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-HarshitGupta5533-black?style=for-the-badge&logo=github)](https://github.com/HarshitGupta5533)
