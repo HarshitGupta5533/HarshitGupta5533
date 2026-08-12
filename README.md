@@ -2,7 +2,7 @@
 
 I'm **Harshit Gupta**, passionate about Full Stack Development, Data Analytics and building practical web applications.
 
-- Skilled in HTML, CSS, JavaScript, React, PHP, SQL, MySQL and Python
+- Skilled in SQL, MySQL, Power BI, Business Intelligence and Python
 - Interested in Data Analytics and Backend Development
 - Built multiple web applications focused on solving real-world business problems
 - Currently learning Advanced SQL, React and Data Analytics
