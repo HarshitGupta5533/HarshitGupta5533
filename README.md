@@ -15,6 +15,6 @@ I'm **Harshit Gupta**, passionate about Full Stack Development, Data Analytics a
 
 ### Connect with me
 
-- [LinkedIn](www.linkedin.com/in/harshit-gupta-01b8aa2b4)
+- [LinkedIn](www.linkedin.com/in/harshit-gupta-01b8aa2b4/)
 - [GitHub](https://github.com/HarshitGupta5533)
 - [Email](mailto:harshit8106@gmail.com)
