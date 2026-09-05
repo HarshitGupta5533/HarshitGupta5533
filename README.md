@@ -8,9 +8,9 @@ I'm **Harshit Gupta**,an MSc IT (Data Analytics) student passionate about Data A
 - Open to internship opportunities and collaborative projects
 
 ### Featured Projects
-- **HS Car Rental System**
-- **Grand Meritorious Restaurant POS System**
-- **E-Commerce Management System**
+- **Road-Accident-Analysis-Project**
+-  **Company_insights_360**
+-  **Credit_Card_Financial_Dashboard**
 
 ### Connect with me
 
